@@ -12,7 +12,7 @@ The results are saved in the following CSV files:
 
 Below is an example of the script's output:
 
-![Output Screenshot](https://raw.githubusercontent.com/Mari-selvam/VRS/refs/heads/main/output.png?token=GHSAT0AAAAAACOKKBDNW5SFOGY27UC3V2X4Z2P3NQA)
+![Output Screenshot]([https://raw.githubusercontent.com/Mari-selvam/VRS/refs/heads/main/output.png?token=GHSAT0AAAAAACOKKBDNW5SFOGY27UC3V2X4Z2P3NQA](https://github.com/Mari-selvam/VRS/blob/main/output.png?raw=true))
 
 ---
 
