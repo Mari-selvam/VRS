@@ -12,7 +12,7 @@ The results are saved in the following CSV files:
 
 Below is an example of the script's output:
 
-![Output Screenshot]([output.png])
+![Output Screenshot](output.png)
 
 ---
 
